@@ -1,4 +1,4 @@
-<html>
+<!DOCTYPE html>
 <head>
 deployprueba
 </head>
